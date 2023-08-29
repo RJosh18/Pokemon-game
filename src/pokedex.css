@@ -1,0 +1,13 @@
+.Pokedex-cards{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 80px;
+}
+
+.Pokedex-winner{
+    color: rgb(26, 105, 26);
+}
+
+.Pokedex-loser{
+    color: rgb(142, 15, 15);
+}
